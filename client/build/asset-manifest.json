@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48d1e3b3.css",
+    "main.js": "/static/js/main.09e00ccf.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/about-banner2.jpg": "/static/media/about-banner2.0800ab981704f7c39734.jpg",
+    "static/media/blog-img-1.jpg": "/static/media/blog-img-1.82405c99472472e3c3e5.jpg",
+    "static/media/DancingScript-Bold.ttf": "/static/media/DancingScript-Bold.72fc35f38c2864ca2cd5.ttf",
+    "static/media/Loading-icon-unscreen.gif": "/static/media/Loading-icon-unscreen.dc50beaf9c2cb8185438.gif",
+    "static/media/category.png": "/static/media/category.2692664f85903c53c528.png",
+    "static/media/orders.png": "/static/media/orders.392cac44d7b98e1d4ccd.png",
+    "index.html": "/index.html",
+    "main.48d1e3b3.css.map": "/static/css/main.48d1e3b3.css.map",
+    "main.09e00ccf.js.map": "/static/js/main.09e00ccf.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d1e3b3.css",
+    "static/js/main.09e00ccf.js"
+  ]
+}
